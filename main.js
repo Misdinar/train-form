@@ -1,7 +1,7 @@
 function submitForm(){
     if (validateForm()) {
         if(confirm("Apakah anda sudah yakin?")){
-            window.location.href = "./contents/success.html";
+            window.location.href = "https://my.its.ac.id/";
         }
     }
 }
